@@ -1,0 +1,5 @@
+Model,Accuracy,F1 Weighted,F1 Macro
+Naive Bayes,0.862,0.8416,0.6837
+Logistic Regression,0.9673,0.9671,0.942
+Linear SVM,0.9701,0.9699,0.9467
+Random Forest,0.9597,0.9588,0.925
