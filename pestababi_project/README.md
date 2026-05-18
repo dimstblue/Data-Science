@@ -34,7 +34,7 @@ pestababi_project/
 | File | Baris | Kolom | Deskripsi |
 |---|---|---|---|
 | `PESTABABI_-_Daftar_Video.csv` | 25 | 4 | Metadata 25 video YouTube |
-| `PESTABABI_-_Data_Mentah.csv` | 1.555 | 3 | Komentar dari seluruh video |
+| `PESTABABI_-_Data_Mentah.csv` | 10.490 | 3 | Komentar dari seluruh video |
 
 ### Skema Kolom Setelah Merge
 
